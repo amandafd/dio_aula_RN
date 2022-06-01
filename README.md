@@ -57,7 +57,7 @@
       <li>Style (StyleSheet)</li>
       <li>Pressable</li>
       <li>Linking API</li>
-      <li>Add código nátivo no AndroidManifest.xml para abrir link</li>
+      <li>Adicionar código nátivo no AndroidManifest.xml para abrir link</li>
     </ul>
 </ul>
 
