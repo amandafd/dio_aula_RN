@@ -1,6 +1,6 @@
 <h1 align="center">
   <p align="center">Introdução ao React Native - DIO</p>
-  <img src="https://user-images.githubusercontent.com/104245596/171510422-05aa9764-a497-49b9-80c7-4f52b533c6f5.png" alt="print do projeto no emulador">
+  <img src="https://user-images.githubusercontent.com/104245596/171510422-05aa9764-a497-49b9-80c7-4f52b533c6f5.png" width="auto" height="700" alt="print do projeto no emulador">
 </h1>
 
 <p align="center">
@@ -10,7 +10,7 @@
   <a href=""><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" align="center" alt="Badge Android Studio" /></a>
   <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="center" alt="Badge Visual Studio Code" /></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge JavaScript" /></a><br>
-  <a href=""><img src="https://hermes.digitalinnovation.one/tracks/15866500-f818-4970-b906-66bf07cec97b.png" align="center" alt="Badge Decola Tech" /></a>
+  <a href=""><img src="https://hermes.digitalinnovation.one/tracks/15866500-f818-4970-b906-66bf07cec97b.png" width="200 height="auto" align="center" alt="Badge Decola Tech" /></a>
   </p>
   
   <h2>Sobre o projeto</h2>
