@@ -14,7 +14,7 @@
   </p>
   
   <h2>Sobre o projeto</h2>
-<p>Projeto desenvolvido durante o curso de react-native da Digital Innovation One, durante o Bootcamp Decola Tech 3a Edição Avanade. O resultado final é um aplicativo para Android que possui um link de direcionamento para o perfil do Github.</p>
+<p>Projeto desenvolvido durante o curso de React Native da Digital Innovation One, durante o Bootcamp Decola Tech 3a Edição (Avanade). O resultado final é um aplicativo para Android que possui um link de direcionamento para o perfil do Github.</p>
 
 <h3>Conteúdo</h3>
 <ul>
