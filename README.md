@@ -10,8 +10,6 @@
   <a href=""><img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" align="center" alt="Badge Android Studio" /></a>
   <a href=""><img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" align="center" alt="Badge Visual Studio Code" /></a>
   <a href=""><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" align="center" alt="Badge JavaScript" /></a><br>
-  <a href=""><img src="https://hermes.digitalinnovation.one/tracks/15866500-f818-4970-b906-66bf07cec97b.png" width="200 height="auto" align="center" alt="Badge Decola Tech" /></a>
-  </p>
   
   <h2>Sobre o projeto</h2>
 <p>Projeto desenvolvido durante o curso de React Native da Digital Innovation One, durante o Bootcamp Decola Tech 3a Edição (Avanade). O resultado final é um aplicativo para Android que possui um link de direcionamento para o perfil do Github.</p>
